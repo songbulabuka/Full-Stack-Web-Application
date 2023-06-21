@@ -7,6 +7,6 @@ An online social networking website implemented by React.js and SpringBoot. Usin
 
 # Frontend
 ## Usage
-1. Change directory to _frontend_: '$ cd frontend'
-2. Run "$ npm install"
-3. Start project: "$ npm start"
+1. Change directory to _frontend_: `$ cd frontend`
+2. Run `$ npm install`
+3. Start project: `$ npm start`
