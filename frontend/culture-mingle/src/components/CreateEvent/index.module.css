@@ -1,0 +1,11 @@
+.page{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    line-height: 120px;
+    background-color: #feeff5;
+}
+
+.button{
+    margin-inline: 40%;
+}

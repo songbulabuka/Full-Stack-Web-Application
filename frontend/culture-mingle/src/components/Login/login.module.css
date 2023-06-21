@@ -1,0 +1,69 @@
+/* https://juejin.cn/post/6950873363275317255#heading-4 */
+.spaceStyle{
+  width: 100%;
+}
+.contentStyle{
+  min-height: 500px;
+  line-height: 120px;
+  background-color: #feeff5;
+  text-align: center;
+}
+.logo {
+  text-align: center;
+  font-size: 35px;
+  font-family: Fantasy;
+  font-weight: 300;
+  height: 10%;
+}
+.formStyle {
+max-width: 600px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+font-size: 25px;
+}
+
+/* .contentStyle {
+margin: auto;
+width: 100%;
+height: 100%;
+line-height: 120px;
+background-color: #feeff5;
+text-align: center;
+justify-content: center;
+} */
+
+.content {
+margin: auto;
+width: 75%;
+padding: 50px;
+}
+
+label {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+font-weight: 100;
+}
+
+.ant-btn {
+width: 180px;
+height: 48px;
+margin: 5px;
+/* border-color: black; */
+}
+
+.buttonStyle {
+/* background-color: pink; */
+width: 160px;
+height: 40px;
+margin: 10px;
+}
+
+.hint {
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+font-size: 15px;
+}
+
+.footerStyle {
+  text-align: center;
+  color: #fff;
+  background-color: #feeff5 ! important;
+}
